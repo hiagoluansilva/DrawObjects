@@ -1,4 +1,4 @@
-package Java.drawnRandowObjects;
+package Java.drawnRandomObjects;
 
 import java.awt.Graphics;
 import java.awt.Color;
