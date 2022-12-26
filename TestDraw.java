@@ -1,4 +1,4 @@
-package Java.drawnRandowObjects;
+package Java.drawnRandomObjects;
 
 import javax.swing.JFrame;
 import javax.swing.JLabel;
